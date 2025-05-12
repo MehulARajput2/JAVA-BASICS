@@ -3,7 +3,7 @@ class FinalVar {
 
     public static void main(String[] args) {
         FinalVar fvd = new FinalVar();
-        System.err.println("a=" + fvd.a);
+        System.out.println("a=" + fvd.a);
     }
 }
 
